@@ -1,4 +1,5 @@
 # WebSocket Module
+## Requires [Module-Launcher](https://github.com/Infara-Security/Module-Launcher) <br>
 
 The WebSocket module allows you to intercept WebSocket messages and log them before passing them to the original handler. This can be useful for debugging WebSocket communication within your application. This readme provides an overview of the functionality and usage of the WebSocket module.
 
